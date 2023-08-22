@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tracker.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/Tracker.github.io/static/js/main.5263852c.js",
+    "index.html": "/Tracker.github.io/index.html",
+    "main.e6c13ad2.css.map": "/Tracker.github.io/static/css/main.e6c13ad2.css.map",
+    "main.5263852c.js.map": "/Tracker.github.io/static/js/main.5263852c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5263852c.js"
+  ]
+}
