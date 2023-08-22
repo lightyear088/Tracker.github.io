@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/lightyear088/Tracker.github.io/static/css/main.e6c13ad2.css",
-    "main.js": "/lightyear088/Tracker.github.io/static/js/main.5263852c.js",
-    "index.html": "/lightyear088/Tracker.github.io/index.html",
-    "main.e6c13ad2.css.map": "/lightyear088/Tracker.github.io/static/css/main.e6c13ad2.css.map",
-    "main.5263852c.js.map": "/lightyear088/Tracker.github.io/static/js/main.5263852c.js.map"
+    "main.css": "/github.io/Tracker.github.io/static/css/main.e6c13ad2.css",
+    "main.js": "/github.io/Tracker.github.io/static/js/main.5263852c.js",
+    "index.html": "/github.io/Tracker.github.io/index.html",
+    "main.e6c13ad2.css.map": "/github.io/Tracker.github.io/static/css/main.e6c13ad2.css.map",
+    "main.5263852c.js.map": "/github.io/Tracker.github.io/static/js/main.5263852c.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
